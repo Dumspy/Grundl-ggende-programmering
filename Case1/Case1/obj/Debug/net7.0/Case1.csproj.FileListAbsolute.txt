@@ -1,15 +1,30 @@
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\bin\Debug\net7.0\Case1.exe
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\bin\Debug\net7.0\Case1.deps.json
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\bin\Debug\net7.0\Case1.runtimeconfig.json
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\bin\Debug\net7.0\Case1.dll
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\bin\Debug\net7.0\Case1.pdb
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.csproj.AssemblyReference.cache
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.AssemblyInfoInputs.cache
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.AssemblyInfo.cs
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.csproj.CoreCompileInputs.cache
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.dll
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\refint\Case1.dll
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.pdb
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\Case1.genruntimeconfig.cache
-C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case1\Case1\obj\Debug\net7.0\ref\Case1.dll
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/bin/Debug/net7.0/Case1.exe
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/bin/Debug/net7.0/Case1.deps.json
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/bin/Debug/net7.0/Case1.runtimeconfig.json
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/bin/Debug/net7.0/Case1.dll
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/bin/Debug/net7.0/Case1.pdb
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.csproj.AssemblyReference.cache
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.AssemblyInfoInputs.cache
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.AssemblyInfo.cs
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.csproj.CoreCompileInputs.cache
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.dll
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/refint/Case1.dll
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.pdb
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/Case1.genruntimeconfig.cache
+C:/Users/felix/Documents/Projects/Grundlæggende programmering/Case1/Case1/obj/Debug/net7.0/ref/Case1.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/bin/Debug/net7.0/Case1
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/bin/Debug/net7.0/Case1.deps.json
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/bin/Debug/net7.0/Case1.runtimeconfig.json
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/bin/Debug/net7.0/Case1.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/bin/Debug/net7.0/Case1.pdb
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.csproj.AssemblyReference.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/refint/Case1.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.pdb
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/Case1.genruntimeconfig.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/Debug/net7.0/ref/Case1.dll

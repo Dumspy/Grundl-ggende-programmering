@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\felix\\.nuget\\packages\\": {}
+    "/Users/dispy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felix\\Documents\\Projects\\Grundlæggende programmering\\Case1\\Case1\\Case1.csproj",
+      "projectUniqueName": "/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/Case1.csproj",
       "projectName": "Case1",
-      "projectPath": "C:\\Users\\felix\\Documents\\Projects\\Grundlæggende programmering\\Case1\\Case1\\Case1.csproj",
-      "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felix\\Documents\\Projects\\Grundlæggende programmering\\Case1\\Case1\\obj\\",
+      "projectPath": "/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/Case1.csproj",
+      "packagesPath": "/Users/dispy/.nuget/packages/",
+      "outputPath": "/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case1/Case1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/dispy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/dispy/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
