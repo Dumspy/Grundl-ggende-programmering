@@ -1,0 +1,33 @@
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/bin/Debug/net7.0/Case2
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/bin/Debug/net7.0/Case2.deps.json
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/bin/Debug/net7.0/Case2.runtimeconfig.json
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/bin/Debug/net7.0/Case2.dll
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/bin/Debug/net7.0/Case2.pdb
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.csproj.AssemblyReference.cache
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfo.cs
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.dll
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/refint/Case2.dll
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.pdb
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/Case2.genruntimeconfig.cache
+/Users/dispy/Documents/Skole/Grundlæggende programmering/Case2/Case2/obj/Debug/net7.0/ref/Case2.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Case2
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Case2.deps.json
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Case2.runtimeconfig.json
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Case2.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Case2.pdb
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.csproj.AssemblyReference.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.csproj.CopyComplete
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/refint/Case2.dll
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.pdb
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.genruntimeconfig.cache
+/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/ref/Case2.dll
