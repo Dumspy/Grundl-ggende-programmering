@@ -2,15 +2,15 @@ using Case2.Models;
 
 namespace Case2.Classes;
 
-public class H1DataSet : ICourse
+public class H1DataSet : IDataSet
 {
-    private Person[] Teachers;
-    private Person[] Students;
-    private Subject[] Subjects;
+    private readonly Person[] _teachers;
+    private readonly Person[] _students;
+    private readonly Subject[] _subjects;
     
     public H1DataSet()
     {
-        Teachers = new Person[]
+        _teachers = new Person[]
         {
             new Person("Niels", "Olesen"),
             new Person("Flemming", "Sørensen"),
@@ -18,7 +18,7 @@ public class H1DataSet : ICourse
             new Person("Henrik Vincents", "Poulsen")
         };
         
-        Students = new Person[]
+        _students = new Person[]
         {
             new Person("Alexander Mathias", "Thamdrup"),
             new Person("Allan", "Gawron"),
@@ -39,75 +39,75 @@ public class H1DataSet : ICourse
             new Person("Tobias Kofoed", "Larsen"),
         };
         
-        Subjects = new Subject[]
+        _subjects = new Subject[]
         {
             new Subject
             (
                 "Studieteknik",
-                Teachers[0],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14] }
+                _teachers[0],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14] }
             ),
             new Subject
             (
                 "Grundlæggende programmering",
-                Teachers[0],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+                _teachers[0],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             ),
             new Subject
             (
             "Database programmering",
-            Teachers[0],
-            new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+            _teachers[0],
+            new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             ),
             new Subject
             (
                 "OOP",
-                Teachers[1],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+                _teachers[1],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             ),
             new Subject
             (
                 "Computerteknologi",
-                Teachers[0],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+                _teachers[0],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             ),
             new Subject
             (
                 "Clientside programmering",
-                Teachers[2],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+                _teachers[2],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             ),
             new Subject
             (
                 "Netværk",
-                Teachers[3],
-                new Person[] { Students[0], Students[1], Students[2], Students[3], Students[4], Students[5], Students[6], Students[7], Students[8], Students[9], Students[10], Students[11], Students[12], Students[13], Students[14], Students[15], Students[16] }
+                _teachers[3],
+                new Person[] { _students[0], _students[1], _students[2], _students[3], _students[4], _students[5], _students[6], _students[7], _students[8], _students[9], _students[10], _students[11], _students[12], _students[13], _students[14], _students[15], _students[16] }
             )
             
         };
 
-        foreach (var subject in Subjects)
+        foreach (var subject in _subjects)
         {
             foreach (var student in subject.GetStudents())
             {
-                student.addSubject(subject);
+                student.AddSubject(subject);
             }
-            subject.Teacher.addSubject(subject);
+            subject.Teacher.AddSubject(subject);
         }
     }
 
     public Person[] GetTeachers()
     {
-        return Teachers;
+        return _teachers;
     }
     
     public Person[] GetStudents()
     {
-        return Students;
+        return _students;
     }
     
     public Subject[] GetSubjects()
     {
-        return Subjects;
+        return _subjects;
     }
 }

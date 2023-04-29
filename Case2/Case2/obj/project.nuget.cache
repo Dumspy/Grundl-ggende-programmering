@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iaqdYKJ2JaAWzW1zTBRpUApl2CF2fVtpUEzQcoDfLt7RP1co+F+hNFsNNEiLPpmNbgSCixFPcL5VoiwBmxMapg==",
+  "dgSpecHash": "tAfVFJUH9SHd+g+wQY/SPlnl/GJDlPVcz+7KMkaMxyeWsewwbPbPRAobWQ28UYHfs5kGcOEhyx9idxTNEax2oA==",
   "success": true,
-  "projectFilePath": "/Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/Case2.csproj",
+  "projectFilePath": "C:\\Users\\felix\\Documents\\Projects\\Grundlæggende programmering\\Case2\\Case2\\Case2.csproj",
   "expectedPackageFiles": [
-    "/Users/dispy/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "/Users/dispy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\felix\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\felix\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

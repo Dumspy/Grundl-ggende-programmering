@@ -4,23 +4,25 @@ public class Person : IPerson
 {
     public string FirstName { get; }
     public string LastName { get; }
-    private Subject[] Subjects;
+    
+    public string FullName => $"{FirstName} {LastName}";
+    private Subject[] _subjects;
     
     public Person(string firstName, string lastName)
     {
         FirstName = firstName;
         LastName = lastName;
-        Subjects = Array.Empty<Subject>();
+        _subjects = Array.Empty<Subject>();
     }
-    public void addSubject(Subject subject)
+    public void AddSubject(Subject subject)
     {
-        var subjects = Subjects;
-        Array.Resize(ref subjects, Subjects.Length + 1);
+        var subjects = _subjects;
+        Array.Resize(ref subjects, _subjects.Length + 1);
         subjects[subjects.Length - 1] = subject;
-        Subjects = subjects;
+        _subjects = subjects;
     }
     public Subject[] GetSubjects()
     {
-        return Subjects;
+        return _subjects;
     }
 }

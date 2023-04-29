@@ -4,5 +4,5 @@ public interface ISubject
 {
    string Name { get; }
    Person Teacher { get; }
-   void addStudent(Person student);
+   void AddStudent(Person student);
 }

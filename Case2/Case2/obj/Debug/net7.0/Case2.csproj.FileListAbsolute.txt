@@ -31,3 +31,21 @@
 /Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.pdb
 /Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/Case2.genruntimeconfig.cache
 /Users/dispy/Documents/Projects/Grundl-ggende-programmering/Case2/Case2/obj/Debug/net7.0/ref/Case2.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Case2.exe
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Case2.deps.json
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Case2.runtimeconfig.json
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Case2.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Case2.pdb
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.csproj.AssemblyReference.cache
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.AssemblyInfoInputs.cache
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.AssemblyInfo.cs
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.csproj.CoreCompileInputs.cache
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.csproj.CopyComplete
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\refint\Case2.dll
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.pdb
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\Case2.genruntimeconfig.cache
+C:\Users\felix\Documents\Projects\Grundlæggende programmering\Case2\Case2\obj\Debug\net7.0\ref\Case2.dll

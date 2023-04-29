@@ -5,24 +5,24 @@ public class Subject : ISubject
     public string Name { get; set; }
     public Person Teacher { get; set; }
     
-    private Person[] Students;
+    private Person[] _students;
     public Subject(string name, Person teacher, Person[] students)
     {
         Name = name;
         Teacher = teacher;
-        Students = students;
+        _students = students;
     }
     
-    public void addStudent(Person student)
+    public void AddStudent(Person student)
     {
-        var students = Students;
+        var students = _students;
         Array.Resize(ref students, students.Length + 1);
         students[students.Length - 1] = student;
-        Students = students;
+        _students = students;
     }
     
     public Person[] GetStudents()
     {
-        return Students;
+        return _students;
     }
 }
